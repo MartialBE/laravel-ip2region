@@ -114,3 +114,6 @@ $region = $searcher->ip('1.2.3.4');
 // 备注：并发使用，用整个 xdb 缓存创建的 searcher 对象可以安全用于并发。
 ```
 
+## License
+
+MIT
