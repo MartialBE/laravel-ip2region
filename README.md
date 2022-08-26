@@ -1,7 +1,9 @@
 # LaravelIp2region
 
-
 [ip2region](https://github.com/lionsoul2014/ip2region) 的Laravel扩展包。
+
+
+[![Latest Stable Version](http://poser.pugx.org/martialbe/laravel-ip2region/v)](https://packagist.org/packages/martialbe/laravel-ip2region) [![Total Downloads](http://poser.pugx.org/martialbe/laravel-ip2region/downloads)](https://packagist.org/packages/martialbe/laravel-ip2region) [![Latest Unstable Version](http://poser.pugx.org/martialbe/laravel-ip2region/v/unstable)](https://packagist.org/packages/martialbe/laravel-ip2region) [![License](http://poser.pugx.org/martialbe/laravel-ip2region/license)](https://packagist.org/packages/martialbe/laravel-ip2region) [![PHP Version Require](http://poser.pugx.org/martialbe/laravel-ip2region/require/php)](https://packagist.org/packages/martialbe/laravel-ip2region)
 
 ---
 
